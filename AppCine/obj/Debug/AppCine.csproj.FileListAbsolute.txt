@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\AppCine\AppCine\bin\Debug\AppCine.exe.config
+C:\Users\crist\source\repos\AppCine\AppCine\bin\Debug\AppCine.exe
+C:\Users\crist\source\repos\AppCine\AppCine\bin\Debug\AppCine.pdb
+C:\Users\crist\source\repos\AppCine\AppCine\obj\Debug\AppCine.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\AppCine\AppCine\obj\Debug\AppCine.FrmMain.resources
+C:\Users\crist\source\repos\AppCine\AppCine\obj\Debug\AppCine.Properties.Resources.resources
+C:\Users\crist\source\repos\AppCine\AppCine\obj\Debug\AppCine.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\AppCine\AppCine\obj\Debug\AppCine.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\AppCine\AppCine\obj\Debug\AppCine.exe
+C:\Users\crist\source\repos\AppCine\AppCine\obj\Debug\AppCine.pdb
