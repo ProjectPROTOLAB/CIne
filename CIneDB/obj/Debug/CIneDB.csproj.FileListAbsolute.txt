@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Trabajo Cine\CIneDB\CIneDB\bin\Debug\CIneDB.exe.config
+C:\Users\admin\Documents\Trabajo Cine\CIneDB\CIneDB\bin\Debug\CIneDB.exe
+C:\Users\admin\Documents\Trabajo Cine\CIneDB\CIneDB\bin\Debug\CIneDB.pdb
+C:\Users\admin\Documents\Trabajo Cine\CIneDB\CIneDB\obj\Debug\CIneDB.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Trabajo Cine\CIneDB\CIneDB\obj\Debug\CIneDB.Main.resources
+C:\Users\admin\Documents\Trabajo Cine\CIneDB\CIneDB\obj\Debug\CIneDB.Properties.Resources.resources
+C:\Users\admin\Documents\Trabajo Cine\CIneDB\CIneDB\obj\Debug\CIneDB.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Trabajo Cine\CIneDB\CIneDB\obj\Debug\CIneDB.exe
+C:\Users\admin\Documents\Trabajo Cine\CIneDB\CIneDB\obj\Debug\CIneDB.pdb
